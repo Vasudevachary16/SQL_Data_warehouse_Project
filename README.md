@@ -36,7 +36,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 🙋About me 
 
 
 
