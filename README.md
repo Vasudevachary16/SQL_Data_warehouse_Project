@@ -19,6 +19,11 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
   
 ---
 
+## Data Architecture
+
+![DATAWARE HOUSE OVERVIEW](https://github.com/user-attachments/assets/754ae150-7558-45cb-b2a1-a96b26f4af90)
+
+
 ## BI:Analytics and Reporting (Data Analytics)
 #### 🎯Objective
 Develop SQL-based analytics to deliver detailed insights into:
